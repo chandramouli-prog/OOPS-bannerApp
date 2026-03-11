@@ -1,0 +1,22 @@
+/**
+ * OOPS Banner App
+ * UC2 - Print OOPS Banner using ASCII characters
+ * 
+ * @author Student
+ * @version 1.0
+ */
+
+public class OOPSBannerApp {
+
+    public static void main(String[] args) {
+
+        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     *  *    *  *    *  *     ");
+        System.out.println("*     *  *    *  *    *  *     ");
+        System.out.println("*     *  *****   *****   ***** ");
+        System.out.println("*     *  *       *           * ");
+        System.out.println("*     *  *       *           * ");
+        System.out.println(" *****   *       *       ***** ");
+
+    }
+}
